@@ -760,11 +760,12 @@ These specialized agents are available to assist with saddar.com.pk development:
 | `growth-hacker` | Viral loops, referral programs, user acquisition |
 | `content-creator` | Product descriptions, blog posts, marketing content |
 | `rebrand-strategist` | Complete brand transformation strategy (Udhaar Book → Rupin rebrand specialist) |
+| `aso-competitor-agent` | **NEW!** ASO competitor analysis, keyword extraction, gap analysis, safe keyword hijacking strategies for Play Store growth (UdhaarBook/Rupin specialist) |
+| `app-store-optimizer` | General app store optimization and ASO best practices |
 | `tiktok-strategist` | TikTok marketing for Pakistan market |
 | `twitter-engager` | Twitter/X engagement and trends |
 | `instagram-curator` | Instagram content and shopping features |
 | `reddit-community-builder` | Community engagement on Reddit |
-| `app-store-optimizer` | App store optimization (if mobile app) |
 | `whatsapp-community-salesman` | WhatsApp marketing and sales (important for Pakistan) |
 
 ### Product Department
