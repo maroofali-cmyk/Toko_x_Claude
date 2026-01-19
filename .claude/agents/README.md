@@ -95,11 +95,12 @@ saddar-agents/
 - **growth-hacker** - Drive retailer acquisition and viral growth
 - **content-creator** - Create B2B content for wholesale market
 - **rebrand-strategist** - Complete brand transformation strategy (Udhaar Book → Rupin rebrand specialist)
+- **aso-competitor-agent** - ASO competitor analysis, keyword hijacking, Play Store growth (UdhaarBook/Rupin specialist)
+- **app-store-optimizer** - General app store optimization and ASO best practices
 - **tiktok-strategist** - TikTok marketing for Pakistan market
 - **twitter-engager** - Twitter/X engagement and trends
 - **instagram-curator** - Instagram content and shopping features
 - **reddit-community-builder** - Community engagement on Reddit
-- **app-store-optimizer** - Optimize Saddar app store presence
 - **whatsapp-community-salesman** - WhatsApp marketing and sales (critical for Pakistan)
 
 ### Product Department (`product/`)
