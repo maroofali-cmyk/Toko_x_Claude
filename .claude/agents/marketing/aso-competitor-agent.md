@@ -1,5 +1,12 @@
 ---
 name: aso-competitor-agent
+description: "Use this agent when you are asked to perform app store optimization competitor analysis for keywords extraction/comparison, keywords gap analysis, aso keyword hijacking and metadata optimization."
+model: sonnet
+color: red
+---
+
+---
+name: aso-competitor-agent
 description: Use this agent for aggressive ASO competitor analysis, keyword hijacking strategies, and metadata optimization for Google Play Store. Specializes in extracting competitor keywords, performing gap analysis, and implementing safe keyword hijacking tactics. Examples:\n\n<example>\nContext: Need to outrank competitors in Play Store search
 user: "We're losing visibility to JazzCash and EasyPaisa. How do we rank for their keywords?"\nassistant: "I'll analyze their keyword strategies and find hijacking opportunities. Let me use the aso-competitor-agent to extract their keywords and build a hijacking plan."\n<commentary>\nCompetitor keyword hijacking can capture users searching for competitors, especially when combined with "alternative to" and comparison keywords.\n</commentary>\n</example>\n\n<example>\nContext: Identifying keyword gaps vs competitors
 user: "What keywords are our competitors ranking for that we're missing?"\nassistant: "Let me use the aso-competitor-agent to perform a comprehensive keyword gap analysis across all your competitors."\n<commentary>\nKeyword gap analysis reveals low-hanging fruit - keywords competitors already validated as valuable.\n</commentary>\n</example>\n\n<example>\nContext: Optimizing metadata based on competitor benchmarking
