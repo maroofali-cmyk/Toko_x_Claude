@@ -21,61 +21,53 @@ Agents are automatically available in Claude Code. Simply describe your task and
 
 ## Directory Structure
 
-Agents are organized by department for easy discovery:
+All agents are located in `.claude/agents/` directory (flat structure):
 
 ```
-saddar-agents/
-├── design/
-│   ├── brand-guardian.md
-│   ├── ui-designer.md
-│   ├── ux-researcher.md
-│   ├── visual-storyteller.md
-│   └── whimsy-injector.md
-├── engineering/
-│   ├── ai-engineer.md
-│   ├── backend-architect.md
-│   ├── devops-automator.md
-│   ├── frontend-developer.md
-│   ├── mobile-app-builder.md
-│   ├── rapid-prototyper.md
-│   └── test-writer-fixer.md
-├── marketing/
-│   ├── app-store-optimizer.md
-│   ├── content-creator.md
-│   ├── growth-hacker.md
-│   ├── instagram-curator.md
-│   ├── reddit-community-builder.md
-│   ├── tiktok-strategist.md
-│   ├── twitter-engager.md
-│   └── whatsapp-community-salesman.md
-├── product/
-│   ├── feedback-synthesizer.md
-│   ├── sprint-prioritizer.md
-│   └── trend-researcher.md
-├── project-management/
-│   ├── experiment-tracker.md
-│   ├── project-shipper.md
-│   └── studio-producer.md
-├── studio-operations/
-│   ├── analytics-reporter.md
-│   ├── finance-tracker.md
-│   ├── infrastructure-maintainer.md
-│   ├── legal-compliance-checker.md
-│   └── support-responder.md
-├── testing/
-│   ├── api-tester.md
-│   ├── performance-benchmarker.md
-│   ├── test-results-analyzer.md
-│   ├── tool-evaluator.md
-│   └── workflow-optimizer.md
-└── bonus/
-    ├── joker.md
-    └── studio-coach.md
+.claude/agents/
+├── ai-engineer.md
+├── analytics-reporter.md
+├── api-tester.md
+├── app-store-optimizer.md
+├── aso-competitor-agent.md
+├── backend-architect.md
+├── brand-guardian.md
+├── content-creator.md
+├── devops-automator.md
+├── email-sender.md
+├── feedback-synthesizer.md
+├── finance-tracker.md
+├── frontend-developer.md
+├── growth-hacker.md
+├── infrastructure-maintainer.md
+├── instagram-curator.md
+├── joker.md
+├── legal-compliance-checker.md
+├── md-to-pdf-converter.md
+├── mobile-app-builder.md
+├── performance-benchmarker.md
+├── rapid-prototyper.md
+├── rebrand-strategist.md
+├── reddit-community-builder.md
+├── seo-specialist.md
+├── studio-coach.md
+├── support-responder.md
+├── test-results-analyzer.md
+├── test-writer-fixer.md
+├── tiktok-strategist.md
+├── tool-evaluator.md
+├── trend-researcher.md
+├── twitter-engager.md
+├── ui-designer.md
+├── ux-researcher.md
+├── visual-storyteller.md
+├── whimsy-injector.md
+└── workflow-optimizer.md
 ```
 
 ## Complete Agent List
 
-### Engineering Department (`engineering/`)
+### Engineering Department
 - **rapid-prototyper** - Build Saddar features and MVPs in days, not weeks
 - **backend-architect** - Design scalable APIs for wholesale e-commerce
 - **frontend-developer** - Build responsive, mobile-first interfaces
@@ -84,14 +76,14 @@ saddar-agents/
 - **devops-automator** - Deploy and scale Saddar infrastructure
 - **test-writer-fixer** - Write tests and fix bugs
 
-### Design Department (`design/`)
+### Design Department
 - **ui-designer** - Design e-commerce interfaces for Pakistani retailers
 - **ux-researcher** - Optimize user experience for wholesale buyers
 - **brand-guardian** - Maintain Saddar's visual identity
 - **visual-storyteller** - Create product visuals and marketing assets
 - **whimsy-injector** - Add delightful micro-interactions
 
-### Marketing Department (`marketing/`)
+### Marketing Department
 - **growth-hacker** - Drive retailer acquisition and viral growth
 - **content-creator** - Create B2B content for wholesale market
 - **rebrand-strategist** - Complete brand transformation strategy (Udhaar Book → Rupin rebrand specialist)
@@ -103,31 +95,31 @@ saddar-agents/
 - **reddit-community-builder** - Community engagement on Reddit
 - **whatsapp-community-salesman** - WhatsApp marketing and sales (critical for Pakistan)
 
-### Product Department (`product/`)
+### Product Department
 - **trend-researcher** - Identify trending products and market opportunities
 - **feedback-synthesizer** - Transform retailer feedback into features
 - **sprint-prioritizer** - Prioritize features for 6-day sprints
 
-### Project Management (`project-management/`)
+### Project Management
 - **project-shipper** - Launch coordination and release management
 - **studio-producer** - Keep development momentum
 - **experiment-tracker** - A/B testing and feature validation
 
-### Studio Operations (`studio-operations/`)
+### Studio Operations
 - **analytics-reporter** - Sales analytics, user behavior insights
 - **finance-tracker** - Revenue tracking, profitability analysis
 - **infrastructure-maintainer** - Server scaling, performance optimization
 - **legal-compliance-checker** - Pakistan e-commerce regulations, privacy laws
 - **support-responder** - Customer support optimization
 
-### Testing & QA (`testing/`)
+### Testing & QA
 - **api-tester** - Test payment APIs, inventory APIs under load
 - **performance-benchmarker** - Page speed, checkout flow optimization
 - **test-results-analyzer** - Identify patterns in test failures
 - **tool-evaluator** - Evaluate e-commerce tools and integrations
 - **workflow-optimizer** - Optimize order fulfillment and operations
 
-### Bonus (`bonus/`)
+### Bonus
 - **studio-coach** - Coordinate multi-agent tasks
 - **joker** - Lighten the mood
 

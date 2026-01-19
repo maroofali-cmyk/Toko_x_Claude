@@ -5,7 +5,8 @@
       "Bash(npx playwright install:*)",
       "Bash(pip3 list:*)",
       "Bash(python3:*)",
-      "Bash(npx --yes md-to-pdf:*)"
+      "Bash(npx --yes md-to-pdf:*)",
+      "Bash(ls:*)"
     ]
   }
 }
