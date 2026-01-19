@@ -5,6 +5,7 @@ user: "We're losing visibility to JazzCash and EasyPaisa. How do we rank for the
 user: "What keywords are our competitors ranking for that we're missing?"\nassistant: "Let me use the aso-competitor-agent to perform a comprehensive keyword gap analysis across all your competitors."\n<commentary>\nKeyword gap analysis reveals low-hanging fruit - keywords competitors already validated as valuable.\n</commentary>\n</example>\n\n<example>\nContext: Optimizing metadata based on competitor benchmarking
 user: "How should we optimize our app title and description compared to competitors?"\nassistant: "I'll benchmark your metadata against top competitors. Let me use the aso-competitor-agent to analyze their strategies and recommend optimizations."\n<commentary>\nMetadata optimization should be data-driven, based on what's working for successful competitors.\n</commentary>\n</example>\n\n<example>\nContext: Capturing competitor brand searches
 user: "People are searching for 'JazzCash alternative' - how do we show up?"\nassistant: "Perfect opportunity for safe keyword hijacking. I'll use the aso-competitor-agent to build a strategy around competitor brand searches."\n<commentary>\nUsers actively searching for alternatives are high-intent and more likely to switch.\n</commentary>\n</example>
+model: sonnet
 color: red
 tools: WebSearch, WebFetch, Write, Read, Grep
 ---
