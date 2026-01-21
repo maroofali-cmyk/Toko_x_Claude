@@ -16,7 +16,8 @@ Agents are automatically available in Claude Code. Simply describe your task and
 - "Create a product listing page for mobile accessories" → `rapid-prototyper` + `frontend-developer`
 - "Design the checkout flow with JazzCash integration" → `backend-architect` + `ui-designer`
 - "Write product descriptions for wholesale earphones" → `content-creator`
-- "Set up WhatsApp order notifications" → `whatsapp-community-salesman`
+- "Optimize category pages for SEO and hijack competitor keywords" → `ecommerce-seo-hijacker`
+- "Create SEO blog content about wholesale shopping in Pakistan" → `pakistan-seo-blog-writer`
 - "Optimize the homepage for Pakistani retailers" → `ux-researcher` + `performance-benchmarker`
 
 ## Directory Structure
@@ -33,23 +34,23 @@ All agents are located in `.claude/agents/` directory (flat structure):
 ├── backend-architect.md
 ├── brand-guardian.md
 ├── content-creator.md
-├── devops-automator.md
+├── ecommerce-seo-hijacker.md
 ├── email-sender.md
 ├── feedback-synthesizer.md
 ├── finance-tracker.md
 ├── frontend-developer.md
 ├── growth-hacker.md
-├── infrastructure-maintainer.md
 ├── instagram-curator.md
 ├── joker.md
 ├── legal-compliance-checker.md
 ├── md-to-pdf-converter.md
 ├── mobile-app-builder.md
+├── pakistan-seo-blog-writer.md
 ├── performance-benchmarker.md
 ├── rapid-prototyper.md
 ├── rebrand-strategist.md
-├── reddit-community-builder.md
 ├── seo-specialist.md
+├── serp-hijacker.md
 ├── studio-coach.md
 ├── support-responder.md
 ├── test-results-analyzer.md
@@ -61,8 +62,7 @@ All agents are located in `.claude/agents/` directory (flat structure):
 ├── ui-designer.md
 ├── ux-researcher.md
 ├── visual-storyteller.md
-├── whimsy-injector.md
-└── workflow-optimizer.md
+└── whimsy-injector.md
 ```
 
 ## Complete Agent List
@@ -73,8 +73,8 @@ All agents are located in `.claude/agents/` directory (flat structure):
 - **frontend-developer** - Build responsive, mobile-first interfaces
 - **mobile-app-builder** - Create native iOS/Android apps for Saddar
 - **ai-engineer** - Integrate AI features (product recommendations, search)
-- **devops-automator** - Deploy and scale Saddar infrastructure
 - **test-writer-fixer** - Write tests and fix bugs
+- **email-sender** - Automate email campaigns and notifications
 
 ### Design Department
 - **ui-designer** - Design e-commerce interfaces for Pakistani retailers
@@ -89,26 +89,21 @@ All agents are located in `.claude/agents/` directory (flat structure):
 - **rebrand-strategist** - Complete brand transformation strategy (Udhaar Book → Rupin rebrand specialist)
 - **aso-competitor-agent** - ASO competitor analysis, keyword hijacking, Play Store growth (UdhaarBook/Rupin specialist)
 - **app-store-optimizer** - General app store optimization and ASO best practices
+- **seo-specialist** - SEO optimization, keyword research, and search engine ranking improvements
+- **ecommerce-seo-hijacker** - Hijack competitor keywords, optimize product/category pages for e-commerce SEO
+- **serp-hijacker** - Analyze competitor content strategies and generate data-driven blog ideas to steal traffic
+- **pakistan-seo-blog-writer** - Create SEO-optimized blog content with Pakistan market context
 - **tiktok-strategist** - TikTok marketing for Pakistan market
 - **twitter-engager** - Twitter/X engagement and trends
 - **instagram-curator** - Instagram content and shopping features
-- **reddit-community-builder** - Community engagement on Reddit
-- **whatsapp-community-salesman** - WhatsApp marketing and sales (critical for Pakistan)
 
 ### Product Department
 - **trend-researcher** - Identify trending products and market opportunities
 - **feedback-synthesizer** - Transform retailer feedback into features
-- **sprint-prioritizer** - Prioritize features for 6-day sprints
-
-### Project Management
-- **project-shipper** - Launch coordination and release management
-- **studio-producer** - Keep development momentum
-- **experiment-tracker** - A/B testing and feature validation
 
 ### Studio Operations
 - **analytics-reporter** - Sales analytics, user behavior insights
 - **finance-tracker** - Revenue tracking, profitability analysis
-- **infrastructure-maintainer** - Server scaling, performance optimization
 - **legal-compliance-checker** - Pakistan e-commerce regulations, privacy laws
 - **support-responder** - Customer support optimization
 
@@ -117,7 +112,9 @@ All agents are located in `.claude/agents/` directory (flat structure):
 - **performance-benchmarker** - Page speed, checkout flow optimization
 - **test-results-analyzer** - Identify patterns in test failures
 - **tool-evaluator** - Evaluate e-commerce tools and integrations
-- **workflow-optimizer** - Optimize order fulfillment and operations
+
+### Utilities
+- **md-to-pdf-converter** - Convert markdown files to PDF format
 
 ### Bonus
 - **studio-coach** - Coordinate multi-agent tasks
@@ -129,7 +126,6 @@ Some agents trigger automatically in specific contexts:
 - **studio-coach** - When complex multi-agent tasks begin or agents need guidance
 - **test-writer-fixer** - After implementing features, fixing bugs, or modifying code
 - **whimsy-injector** - After UI/UX changes
-- **experiment-tracker** - When feature flags are added
 
 ## Saddar-Specific Considerations
 
