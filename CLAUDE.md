@@ -11,6 +11,206 @@ This repository contains AI agents that will be used to build and enhance **www.
 
 ---
 
+## Oscar POS Business Profile (Research Compiled: February 17, 2026)
+
+### Company Overview
+
+| Field | Details |
+|-------|---------|
+| **Brand Name** | Oscar POS |
+| **Primary Domain** | oscar.pk |
+| **Founded** | 2017 |
+| **Company Type** | Self-Owned |
+| **Industry** | SaaS / POS Software / Omni-Channel Commerce |
+| **Headquarters** | Karachi, Pakistan |
+| **Office Address** | Old Palace Cinema Building, Floor 1, Civil Lines, Karachi (also: D-79/1, Block 7, Clifton 75500) |
+| **Team Size** | 11–50 employees |
+| **Phone** | +92 311 280 2210 |
+| **Support Email** | support@oscar.pk |
+| **LinkedIn** | pk.linkedin.com/company/oscarpk |
+
+### What is Oscar POS?
+
+Oscar is a holistic, cloud-based omni-channel commerce platform designed to help businesses in Pakistan automate operations, minimize revenue leakages, and drive sales both online and in-store. It serves as a complete Point-of-Sale (POS) system for retail, restaurants, franchises, and service businesses — from single shops to multi-location chains.
+
+**Tagline / Positioning:** "Keep your team connected, from the front of house to the back, with a POS system designed for efficiency and speed."
+
+**Mission:** To digitize and streamline business operations for Pakistani SMEs through an affordable, scalable POS and commerce platform.
+
+---
+
+### Target Audience
+
+| Segment | Examples |
+|---------|---------|
+| **Restaurants & F&B** | Cafés, bakeries, fast-casual, fine dining, pizzerias, hotels |
+| **Retail** | Clothing stores, grocery shops, phone stores, jewelry retailers, vape shops |
+| **Service Businesses** | Beauty/hair/nail salons, spas, fitness centers, yoga studios, automotive shops |
+| **Education** | Educational institutions |
+| **Franchises** | Multi-location chains and expanding brands |
+
+**Scale served:** Single shops → Franchises with 40+ locations
+
+---
+
+### Core Products & Solutions
+
+#### 1. Oscar POS (Point of Sale)
+The flagship product. A cloud-based POS system with:
+- Barcode scanning and accurate pricing
+- Automated receipt generation
+- Multi-payment processing (cash, card, mobile wallets)
+- FBR-compliant reporting (sales tax, shift, X/Z reports)
+- Fast checkout to reduce wait times
+
+#### 2. Inventory Management
+- Real-time stock monitoring (instant updates on sale/restock)
+- Low-stock alerts with automatic reorder triggers
+- Multi-location stock synchronization via centralized dashboard
+- Import thousands of products via item master
+- Inventory forecasting and supply chain optimization
+- Detailed stock valuation and inventory reports
+
+#### 3. Oscar Business (Analytics Dashboard)
+- Daily and monthly sales reports
+- Product-wise profitability analysis
+- Employee performance tracking
+- Branch-level performance metrics
+- Unified view of all outlets from one dashboard
+
+#### 4. Online Ordering / eCommerce Integration
+- Activate online ordering from within Oscar
+- Single unified view of online + in-store business
+- eCommerce product catalog management
+
+#### 5. Mobile POS / Mobile Ordering
+- Works with or without internet connection (offline support)
+- Accept payments instantly via mobile
+- Speedy mobile checkouts to minimize walkouts
+
+#### 6. Kitchen Display System (KDS)
+- Order tracking for restaurant back-of-house
+- Keeps front-of-house and kitchen synchronized
+
+#### 7. CRM & Customer Engagement
+- Integrated CRM dashboard
+- Gift cards and loyalty programs
+- Discount and promotional offers
+- Customer segmentation and email engagement
+- Repeat business generation through rewards
+
+#### 8. Multi-Location Management
+- Single dashboard controlling all branches
+- Unified pricing and inventory policies
+- Branch-level metrics and performance monitoring
+
+#### 9. Purchasing & Supplier Management
+- One-click purchase orders
+- Capture all invoice details and receipts centrally
+- Vendor/supplier relationship management
+
+#### 10. Oscar Payments
+- Integrated payment processing
+- Supports local Pakistani payment methods
+
+---
+
+### Pricing Model
+
+| Tier | Details |
+|------|---------|
+| **Basic** | Free of charge — accessible to all businesses |
+| **Advanced/Premium** | Paid plans (pricing by demo/inquiry) |
+| **Model** | "Only pay for the features you need as your business grows" |
+| **Demo** | Free demo available on oscar.pk |
+
+---
+
+### Notable Clients
+
+Oscar serves several recognizable brands:
+- **Unilever**
+- **Dunkin' Donuts**
+- **Burger Lab**
+- **Cinnabon**
+- **Shell**
+
+---
+
+### Measurable Client Outcomes
+
+| Metric | Result |
+|--------|--------|
+| Monthly sales increase | 60% |
+| POS downtime reduction | 25% |
+| Revenue increase (Year 1) | 30% |
+| Inventory management time saved | 50% |
+| Max locations scaled | 40+ locations |
+
+---
+
+### Technical Infrastructure
+
+| Component | Details |
+|-----------|---------|
+| **Deployment** | Cloud-based SaaS |
+| **Offline Support** | Yes — mobile POS works without internet |
+| **Backup** | Automated cloud backups |
+| **Integrations** | eCommerce, payment gateways, KDS |
+| **Compliance** | FBR (Federal Board of Revenue) compliant |
+| **Access** | Web, mobile app, any device |
+
+---
+
+### Support & Onboarding
+
+| Feature | Details |
+|---------|---------|
+| **Onboarding** | Free onboarding and initial setup support |
+| **Support Hours** | 24/7 via chat, email, or phone |
+| **Support Channels** | Phone, WhatsApp, Email |
+| **Training** | Setup training for smooth integration |
+
+---
+
+### Competitive Advantages
+
+| Advantage | Impact |
+|-----------|--------|
+| **Free Basic Plan** | Zero cost barrier for adoption by small businesses |
+| **FBR Compliance** | Tax-compliant out of the box for Pakistani businesses |
+| **Offline Functionality** | Critical for Pakistan's connectivity challenges |
+| **Omni-Channel** | In-store + online in a single platform |
+| **Multi-Location** | Scales from 1 shop to 40+ franchise locations |
+| **Local Support** | Pakistan-based 24/7 support team |
+| **Industry Breadth** | Serves retail, F&B, services, education, and more |
+| **Proven Clients** | Trusted by international brands (Unilever, Dunkin', Shell) |
+
+---
+
+### Relationship to Toko Lab / Udhaar Book Ecosystem
+
+Oscar POS appears closely connected to the broader Toko Lab Inc. ecosystem:
+- The Udhaar Book app's Google Play package ID is `com.oscarudhaarapp` — indicating shared technical infrastructure or the same parent entity.
+- Both companies are headquartered in Karachi, Pakistan.
+- Oscar POS (2017) predates Udhaar Book (2020), suggesting Oscar may be the original/parent company.
+- This relationship positions Oscar as the **B2B commerce infrastructure layer** (POS for physical stores) while Udhaar Book / Saddar serves the **digital wholesale and financial management layer**.
+
+---
+
+### Key Learnings for Development
+
+1. **Free tier is table stakes** — must have zero-cost entry for Pakistani SMEs
+2. **FBR compliance is a must-have** — not optional for legitimate Pakistani businesses
+3. **Offline-first design** — Pakistan's internet reliability demands it
+4. **Multi-location from day one** — businesses scale fast once they trust the tool
+5. **Proven client logos matter** — social proof from known brands drives trust
+6. **WhatsApp support is expected** — local businesses prefer WhatsApp over email
+7. **Omni-channel is the future** — unify online + offline as one business view
+8. **24/7 support builds loyalty** — availability differentiates in this market
+
+---
+
 ## Saddar Business Profile (Research Compiled: January 5, 2026)
 
 ### Company Overview
@@ -767,6 +967,13 @@ These specialized agents are available to assist with saddar.com.pk development:
 | `instagram-curator` | Instagram content and shopping features |
 | `reddit-community-builder` | Community engagement on Reddit |
 | `whatsapp-community-salesman` | WhatsApp marketing and sales (important for Pakistan) |
+| `oscar-community-agent` | **Oscar POS only** — Finds Reddit/Quora threads, drafts comments for human review, tracks karma toward 100-point goal. Never mixes with Udhaar/Saddar content. |
+| `udhaar-community-agent` | **Udhaar Book / Rupin only** — Finds Reddit/Quora threads, drafts comments for human review, tracks karma toward 100-point goal. Never mixes with Oscar/Saddar content. |
+| `oscar-twitter-agent` | **Oscar POS only** — Finds Twitter/X conversations in Pakistan, drafts replies and quote tweets for human review, tracks engagement toward 100-point goal. Never mixes with Udhaar/Saddar content. |
+| `udhaar-twitter-agent` | **Udhaar Book / Rupin only** — Finds Twitter/X conversations in Pakistan, drafts replies and quote tweets for human review, tracks engagement toward 100-point goal. Never mixes with Oscar/Saddar content. |
+| `oscar-linkedin-agent` | **Oscar POS only** — Finds LinkedIn posts in Pakistan, drafts comments and original posts for human review, tracks engagement toward 100-point goal. Never mixes with Udhaar/Saddar content. |
+| `udhaar-linkedin-agent` | **Udhaar Book / Rupin only** — Finds LinkedIn posts in Pakistan, drafts comments and original posts for human review, tracks engagement toward 100-point goal. Never mixes with Oscar/Saddar content. |
+| `organic-marketing-reviewer` | **Cross-brand analytics** — Reads user-provided weekly data file and produces a structured report covering all 6 channels (Reddit/Quora, Twitter/X, LinkedIn) for both Oscar and Udhaar. Tracks goal progress, flags red flags, and outputs prioritized next-week actions. |
 
 ### Product Department
 | Agent | Purpose |
@@ -852,3 +1059,4 @@ Agents activate automatically based on task context. You can also explicitly req
 - "Set up WhatsApp order notifications" → `whatsapp-community-salesman`
 
 ---
+
