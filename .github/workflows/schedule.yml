@@ -20,4 +20,4 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          prompt: "Run keyword hijacker agent for udhaar book and send output to channel #testing using slack messenger agent"
+          prompt: "List the files in this repository"
