@@ -8,7 +8,9 @@
       "Bash(npx --yes md-to-pdf:*)",
       "Bash(ls:*)",
       "WebSearch",
-      "WebFetch(domain:oscar.pk)"
+      "WebFetch(domain:oscar.pk)",
+      "mcp__claude_ai_Slack__slack_search_users",
+      "mcp__claude_ai_Slack__slack_send_message"
     ]
   }
 }
