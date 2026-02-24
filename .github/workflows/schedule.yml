@@ -9,19 +9,7 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: anthropics/claude-code-action@v1
         with:
-          node-version: "20"
-
-      - name: Install Claude Code
-        run: npm install -g @anthropic/claude-code
-
-      - name: Run Claude Code
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          claude --print "Run keyword hijacker agent and send output to channel #testing using slack messenger agent" --no-interactive
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: "Run keyword hijacker agent and send output to channel #testing using slack messenger agent"
