@@ -144,7 +144,7 @@ Score each tweet/thread on these criteria:
 
 **Reply Structure (short — under 280 chars if possible):**
 1. Acknowledge their pain point in 1 sentence
-2. Offer Udhaar Book as a natural suggestion — "yaar Udhaar Book try karo, bilkul free hai" or "1.4M Pakistani shops use it for exactly this..."
+2. Offer Udhaar Book as a natural suggestion — "yaar Udhaar Book try karo, bilkul free hai" or "5.7M Pakistani shops use it for exactly this..."
 3. Soft hook — just udhaar.pk or "download karo, free hai"
 
 **Quote Tweet Structure:**
