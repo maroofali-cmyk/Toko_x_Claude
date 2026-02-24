@@ -2,8 +2,12 @@ name: Daily Report
 
 on:
   schedule:
-    - cron: "17 5 * * *"  # 9 AM PKT (UTC+5)
-  workflow_dispatch:       # lets you trigger manually to test
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write  # Required for OIDC authentication
 
 jobs:
   report:
@@ -12,9 +16,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       
-      - name : Run Claude Code
+      - name: Run Claude Code
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           prompt: "Run keyword hijacker agent for udhaar book and send output to channel #testing using slack messenger agent"
-          # allowed_tools: "Bash,Read,Edit,Write"
