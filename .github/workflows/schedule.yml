@@ -1,12 +1,27 @@
 name: Daily Report
+
 on:
   schedule:
-    - cron: "4 5 * * *"  # Runs daily at 9 AM UTC
+    - cron: "17 5 * * *"  # 9 AM PKT (UTC+5)
+  workflow_dispatch:       # lets you trigger manually to test
+
 jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - uses: anthropics/claude-code-action@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
-          prompt: "Run keyword hijacker agent and send output to channel #testing using slack messenger agent"
+          node-version: "20"
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic/claude-code
+
+      - name: Run Claude Code
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          claude --print "Run keyword hijacker agent and send output to channel #testing using slack messenger agent" --no-interactive
