@@ -200,7 +200,7 @@ This is not an acquisition problem. This is an **activation problem**.
 ## Recommended Activation Strategy for Rupin/Udhaar Book
 
 ### Phase 1: Income-First Hook (Month 1-2)
-**Target:** 15-25% of 1.4M users = 210K-350K activated
+**Target:** 15-25% of 5.7M+ users = 210K-350K activated
 
 **Tactics:**
 1. Launch easyload commission feature (2-3% earnings)
@@ -250,7 +250,7 @@ This is not an acquisition problem. This is an **activation problem**.
 
 | Metric | Target (6 months) | Industry Benchmark |
 |--------|-------------------|--------------------|
-| **Activation Rate** | 30-40% (420K-560K of 1.4M users) | 15-20% |
+| **Activation Rate** | 30-40% (420K-560K of 5.7M+ users) | 15-20% |
 | **Transaction Frequency** | 8-12/month per user | 3-5/month |
 | **Revenue Per User** | Rs 200-500/month | Rs 100-200/month |
 | **90-Day Retention** | 60-70% | 20-30% |
@@ -294,7 +294,7 @@ This is not an acquisition problem. This is an **activation problem**.
 6. Obsess over trust/security messaging (fraud fears)
 7. Integrate with WhatsApp (dominant platform)
 
-**For Rupin:** The EMI license + 1.4M Udhaar Book users + multi-use case platform = perfect setup to win wallet activation if executed correctly.
+**For Rupin:** The EMI license + 5.7M+ Udhaar Book users + multi-use case platform = perfect setup to win wallet activation if executed correctly.
 
 ---
 

@@ -647,7 +647,7 @@ Every player emphasizes:
 - Merchant payments become part of workflow
 - Switching cost = abandoning entire business system
 
-**Retention rate:** Udhaar Book has 510K MAU from 1.4M users = 36% monthly retention (extremely high for Pakistan)
+**Retention rate:** Udhaar Book has 510K MAU from 5.7M+ users = 36% monthly retention (extremely high for Pakistan)
 
 ### **G. Social Features & Messaging Integration**
 
@@ -751,7 +751,7 @@ Every player emphasizes:
 
 ## 12. Recommended Strategies for Wallet Activation (Rupin/Udhaar Book Context)
 
-### **A. For Converting Existing 1.4M Udhaar Book Users to Wallet Users**
+### **A. For Converting Existing 5.7M+ Udhaar Book Users to Wallet Users**
 
 #### **Strategy 1: Commission-First Hook**
 **Tactic:**
@@ -765,7 +765,7 @@ Every player emphasizes:
 - Merchants already trust Udhaar Book brand
 - Low cognitive load (one feature at a time)
 
-**Expected conversion:** 15-25% of 1.4M users = 210K-350K active wallet users
+**Expected conversion:** 15-25% of 5.7M+ users = 210K-350K active wallet users
 
 #### **Strategy 2: Utility Bill Integration**
 **Tactic:**
@@ -902,7 +902,7 @@ Every player emphasizes:
 
 ### **Success Metrics to Track:**
 
-1. **Activation Rate:** % of 1.4M users who make first wallet transaction
+1. **Activation Rate:** % of 5.7M+ users who make first wallet transaction
    - **Target:** 30-40% (420K-560K users) in 6 months
 
 2. **Transaction Frequency:** Avg wallet transactions per user per month

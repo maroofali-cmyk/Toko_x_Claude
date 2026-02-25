@@ -267,9 +267,9 @@ Score: Strong differentiation (free, debit card)
 
 **Recommended UdhaarBook/Rupin Short Description:**
 ```
-Option 1: "Free business khata + wallet. Better than JazzCash, EasyPaisa. 1.4M retailers" (80)
+Option 1: "Free business khata + wallet. Better than JazzCash, EasyPaisa. 5.7M+ retailers" (80)
 Option 2: "Digital ledger, payments, inventory - All-in-one alternative to JazzCash" (75)
-Option 3: "Business super app: Khata book + wallet. Trusted by 1.4M+ Pakistani merchants" (80)
+Option 3: "Business super app: Khata book + wallet. Trusted by 5.7M+ Pakistani merchants" (80)
 ```
 
 **C. Long Description Optimization (4000 characters max)**
@@ -322,12 +322,12 @@ A: [Answer with unique value props]
 
 **Social Proof Section:**
 ⭐ 4.28/5 rating from 40,000+ users
-👥 1.4M+ businesses trust Rupin
+👥 5.7M+ businesses trust Rupin
 🏆 Y Combinator backed (credibility)
 💬 "Best alternative to [Competitor]" - [User testimonial]
 
 **Call-to-Action:**
-Download Rupin now and see why 1.4M+ Pakistani businesses chose us over [Competitor 1], [Competitor 2], and [Competitor 3].
+Download Rupin now and see why 5.7M+ Pakistani businesses chose us over [Competitor 1], [Competitor 2], and [Competitor 3].
 
 **Final Keyword Reinforcement:**
 [Primary keyword], [Secondary keyword], [Tertiary keyword] - naturally integrated sentence.
@@ -716,7 +716,7 @@ When providing analysis, use these structured outputs:
 
 ### Short Description (80 chars):
 **Before:** [Current]
-**After:** `Free business khata + wallet. Better than JazzCash, EasyPaisa. 1.4M retailers`
+**After:** `Free business khata + wallet. Better than JazzCash, EasyPaisa. 5.7M+ retailers`
 **Hijacking keywords included:** 2 (JazzCash, EasyPaisa)
 
 ### Long Description - Strategic Placement:
@@ -725,7 +725,7 @@ When providing analysis, use these structured outputs:
 ```
 Rupin is the #1 alternative to JazzCash Business and EasyPaisa for Pakistani
 retailers. Unlike traditional mobile wallets, Rupin combines khata book +
-payments + inventory in one free app trusted by 1.4M+ businesses.
+payments + inventory in one free app trusted by 5.7M+ businesses.
 ```
 **Hijacking keywords:** "alternative to JazzCash", "EasyPaisa"
 
@@ -744,7 +744,7 @@ Unlike EasyPaisa:
 ✓ Better merchant commission rates
 
 Unlike SadaPay or NayaPay:
-✓ Proven track record (1.4M+ users, 4 years)
+✓ Proven track record (5.7M+ users, 4 years)
 ✓ Full business management (not just wallet)
 ✓ Y Combinator backed credibility
 ```

@@ -319,7 +319,7 @@ The Saddar marketplace is integrated directly inside the **Udhaar Book** mobile 
 
 | Metric | Data |
 |--------|------|
-| **Registered Users** | 1.4+ million across 421 Pakistani cities |
+| **Registered Users** | 5.7M+ across 421 Pakistani cities |
 | **Monthly Active Users** | 510,000+ |
 | **MAU Growth (2021)** | 1,100% increase |
 | **MAU Growth (3 months)** | 300% increase |
@@ -551,7 +551,7 @@ The Udhaar Book app is **CRITICAL** to Saddar's success:
 
 | Strategic Value | Explanation |
 |-----------------|-------------|
-| **Distribution Channel** | 1.4M+ users = instant customer base for Saddar |
+| **Distribution Channel** | 5.7M+ users = instant customer base for Saddar |
 | **User Engagement** | Daily active users managing business = frequent shoppers |
 | **Trust Transfer** | Users trust Udhaar Book = trust Saddar marketplace |
 | **Seamless UX** | Buy inventory while managing finances = powerful workflow |
@@ -668,7 +668,7 @@ Based on the "super app for merchants" positioning:
 
 | Challenge | Impact | Mitigation Strategy |
 |-----------|--------|---------------------|
-| **User Confusion** | 1.4M users may not recognize new brand | Clear communication: "Udhaar Book is now Rupin" |
+| **User Confusion** | 5.7M+ users may not recognize new brand | Clear communication: "Udhaar Book is now Rupin" |
 | **Trust Transfer** | Brand equity built over 4 years needs to transfer | Emphasize continuity: "Same app, bigger vision" |
 | **Data Security Concerns** | Users may fear data loss or security breach | Proactive messaging: "Your data is 100% safe" |
 | **Churn Risk** | Users resistant to change may leave | Retention incentives, gradual transition, co-branding |
@@ -767,7 +767,7 @@ Invoke the rebrand-strategist agent when you need help with:
 3. **EMI License = Hero Story:** Lead with regulatory credibility
 4. **WhatsApp First:** 60% of communication effort on Pakistan's dominant channel
 5. **Data-Driven:** Measure everything, optimize relentlessly
-6. **User Retention > Acquisition:** Keeping 1.4M users is the priority
+6. **User Retention > Acquisition:** Keeping 5.7M+ users is the priority
 7. **Research-Backed:** Learn from others' successes and failures
 8. **Pakistan-Focused:** Respect language, culture, trust factors
 

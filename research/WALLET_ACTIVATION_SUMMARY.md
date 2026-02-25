@@ -8,7 +8,7 @@
 ## 🎯 THE CHALLENGE
 
 **Current State:**
-- 1.4M registered Udhaar Book users
+- 5.7M+ registered Udhaar Book users
 - 510K monthly active users (MAU)
 - EMI license recently acquired
 - Wallet feature ready to launch

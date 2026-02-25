@@ -13,7 +13,8 @@
       "mcp__claude_ai_Slack__slack_send_message",
       "WebFetch(domain:www.quora.com)",
       "mcp__playwright__browser_run_code",
-      "mcp__playwright__browser_snapshot"
+      "mcp__playwright__browser_snapshot",
+      "mcp__playwright__browser_navigate"
     ]
   }
 }

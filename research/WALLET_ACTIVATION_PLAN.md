@@ -3,7 +3,7 @@
 **Date:** January 19, 2026
 **Objective:** Activate existing Udhaar Book merchants to adopt wallet services (payments, send & receive money)
 **Constraints:** Organic channels only, no paid advertising
-**Target:** 1.4M users (510K MAU)
+**Target:** 5.7M+ users (510K MAU)
 
 ---
 
@@ -12,7 +12,7 @@
 ### The Opportunity
 - **80M+ wallet accounts exist in Pakistan, but only 4.3% actively use them**
 - This is NOT an acquisition problem - it's an **activation problem**
-- Udhaar Book has 1.4M trusted users who already manage business finances in-app
+- Udhaar Book has 5.7M+ trusted users who already manage business finances in-app
 - Recent EMI license acquisition = credibility boost to JazzCash/EasyPaisa level
 - Multi-use case platform (khata, easyload, Saddar) = natural wallet adoption triggers
 

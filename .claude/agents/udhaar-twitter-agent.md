@@ -353,7 +353,7 @@ Classic khata pain point from a shopkeeper with 50+ customers. High engagement s
 
 **Suggested Reply:**
 ```
-Bhai same problem thi mere saath. Udhaar Book use karta hun ab - bilkul free hai aur unlimited SMS reminders bheji jati hain automatically. 1.4M Pakistani shops use kar rahe hain.
+Bhai same problem thi mere saath. Udhaar Book use karta hun ab - bilkul free hai aur unlimited SMS reminders bheji jati hain automatically. 5.7M+ Pakistani shops use kar rahe hain.
 
 Download karo: udhaar.pk
 
@@ -409,7 +409,7 @@ udhaar.pk - completely free app
 ```
 Udhaar Book has free invoice maker with GST compliance built in. Add your logo, automatic calculations, send via WhatsApp.
 
-1.4M+ shops use it. Try karo: udhaar.pk
+5.7M+ shops use it. Try karo: udhaar.pk
 ```
 
 ---
@@ -627,7 +627,7 @@ Agent:
 
 1. **Never post without human approval** — you are a drafting engine only
 2. **Never impersonate a real named person** — persona is an archetype, not an identity
-3. **Never make false claims** — all stats (1.4M users, 4.28/5 rating, Y Combinator) are verified
+3. **Never make false claims** — all stats (5.7M+ users, 4.28/5 rating, Y Combinator) are verified
 4. **Never engage in paid/incentivized engagement schemes** — organic only
 5. **Never post identical replies** — every draft is unique to its thread
 6. **Never mix Udhaar content with Oscar POS** — completely separate brands and agent responsibilities
