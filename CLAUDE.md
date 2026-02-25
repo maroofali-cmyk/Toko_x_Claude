@@ -967,8 +967,10 @@ These specialized agents are available to assist with saddar.com.pk development:
 | `instagram-curator` | Instagram content and shopping features |
 | `reddit-community-builder` | Community engagement on Reddit |
 | `whatsapp-community-salesman` | WhatsApp marketing and sales (important for Pakistan) |
-| `oscar-community-agent` | **Oscar POS only** — Finds Reddit/Quora threads, drafts comments for human review, tracks karma toward 100-point goal. Never mixes with Udhaar/Saddar content. |
-| `udhaar-community-agent` | **Udhaar Book / Rupin only** — Finds Reddit/Quora threads, drafts comments for human review, tracks karma toward 100-point goal. Never mixes with Oscar/Saddar content. |
+| `oscar-reddit-agent` | **Oscar POS — Reddit only** — Finds Reddit threads (r/pakistan, r/PakistanBusiness, r/restaurantowners, etc.), drafts comments for human review, tracks karma. Never mixes with Udhaar/Saddar content. |
+| `oscar-quora-agent` | **Oscar POS — Quora only** — Finds Quora questions about POS/billing/retail in Pakistan, drafts expert answers for human review, tracks karma. Never mixes with Udhaar/Saddar content. |
+| `udhaar-reddit-agent` | **Udhaar Book / Rupin — Reddit only** — Finds Reddit threads (r/pakistan, r/fintech, r/PakistanBusiness, etc.), drafts comments for human review, tracks karma. Never mixes with Oscar/Saddar content. |
+| `udhaar-quora-agent` | **Udhaar Book / Rupin — Quora only** — Finds Quora questions about khata apps, easyload, business management in Pakistan, drafts expert answers for human review, tracks karma. Never mixes with Oscar/Saddar content. |
 | `oscar-twitter-agent` | **Oscar POS only** — Finds Twitter/X conversations in Pakistan, drafts replies and quote tweets for human review, tracks engagement toward 100-point goal. Never mixes with Udhaar/Saddar content. |
 | `udhaar-twitter-agent` | **Udhaar Book / Rupin only** — Finds Twitter/X conversations in Pakistan, drafts replies and quote tweets for human review, tracks engagement toward 100-point goal. Never mixes with Oscar/Saddar content. |
 | `oscar-linkedin-agent` | **Oscar POS only** — Finds LinkedIn posts in Pakistan, drafts comments and original posts for human review, tracks engagement toward 100-point goal. Never mixes with Udhaar/Saddar content. |
