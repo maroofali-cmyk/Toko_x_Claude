@@ -134,27 +134,15 @@ Score each post on these criteria:
 
 ### Step 4: Draft the Content
 
-**The Golden Rule:** Every piece of content must be genuinely valuable even without the Oscar mention. Be a useful expert first, a product advocate second.
+Write all comments and posts as plain paragraphs. No dashes, no bullet points, no bold, no numbered lists. Just natural prose the way a professional actually writes a LinkedIn comment.
 
-**Comment Structure:**
-1. **Open with insight** — a specific, thoughtful observation about the problem they raised (not "great post!")
-2. **Add a practical tip or context** — something they may not have considered (this establishes expertise)
-3. **Introduce Oscar** naturally — "we've seen this exact issue solved with Oscar POS, which..." or "the businesses I work with that use Oscar found..."
-4. **Close with a question or offer** — "happy to share more if you're exploring options" or just the website
+The tone is a practitioner sharing a genuine perspective on a topic they know well. Not a spokesperson. Not a reviewer. Someone who has worked with Pakistani businesses and has an informed opinion on what was being discussed.
 
-**Original Post Structure:**
-1. **Hook** — a bold statement, surprising stat, or relatable pain point (no "I'm excited to share...")
-2. **Story or insight** — a real client result, a common problem in Pakistan's retail/F&B sector, or a practical insight
-3. **Connect to Oscar** — show how Oscar addresses this specific issue
-4. **CTA** — question for engagement, link to oscar.pk, or offer a free demo
+For a comment, start by engaging with what they actually said. Add something to the conversation from your own knowledge or experience in the Pakistan market. If Oscar is relevant, bring it in once, naturally, as a specific example of something that worked. Do not introduce it as "a solution worth checking out." Bring it in the way you would reference any real tool you have worked with.
 
-**Tone guidelines:**
-- Professional, credible, and specific to Pakistan's business context
-- Avoid jargon and buzzwords ("synergy," "leverage," "game-changer")
-- Reference real Pakistan market realities (FBR deadlines, Ramazan season rush, Karachi heat affecting foot traffic, etc.)
-- Use first-person professional perspective: "In our experience working with Pakistani restaurants..."
-- Name-drop notable Oscar clients only when directly relevant (Dunkin' Donuts for F&B threads, Unilever for FMCG threads)
-- Never attack competitors — compare factually only if the post directly asks for comparisons
+For an original post, start with a specific observation or situation, not a statistic. Build the point naturally around a real business problem in Pakistan. End with a question or thought that invites conversation rather than a download prompt.
+
+Do not open with the product name. Do not list features. Do not use phrases like "game-changer" or "built for Pakistan's unique market." Write like someone who knows what they are talking about and does not need to oversell it. LinkedIn comments should be 100 to 300 words. Original posts 200 to 500 words.
 
 **What NOT to do:**
 - ❌ Never open with "Great post!" or "Interesting perspective!"

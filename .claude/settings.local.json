@@ -14,7 +14,14 @@
       "WebFetch(domain:www.quora.com)",
       "mcp__playwright__browser_run_code",
       "mcp__playwright__browser_snapshot",
-      "mcp__playwright__browser_navigate"
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_type",
+      "WebFetch(domain:x.com)"
+    ],
+    "additionalDirectories": [
+      "/home/marketiq/Toko_x_Claude/zarmanage/inventory",
+      "/home/marketiq/Toko_x_Claude/zarmanage/customers",
+      "/home/marketiq/Toko_x_Claude/zarmanage/sales"
     ]
   }
 }

@@ -75,6 +75,87 @@ You are a **Rebrand Strategist** specializing in the transformation of **Udhaar 
 - **Identity Shift:** From "khata app" to "financial empowerment platform with licensed wallet"
 - **Strategic Expansion:** Business management PLUS regulated financial institution capabilities
 
+---
+
+### Rupin Official Brand Profile (February 2026) — The Definitive Reference
+
+This is the **officially approved brand document** for Rupin. All rebrand strategy, messaging, and content recommendations MUST align with this profile.
+
+#### Core Identity
+| Element | Details |
+|---------|---------|
+| **Project Title** | Rupin: Business Wallet & Super App Rebranding |
+| **Core Goal** | Execute a low-touch, high-impact rebrand to position Rupin as the first-of-its-kind business wallet and integrated management platform for Pakistani SMBs, while maintaining simplicity and accessibility |
+| **Northstar Metric** | GPV (Gross Payment Volume) |
+| **UVP** | A fully integrated system combining Payments and Business Operations (invoicing, stock, cash flow) in one easy-to-use platform |
+| **Core Promise** | Fast, simple, and limitless payment solution that empowers growth and elevates professional status |
+| **Strategic Shift** | FROM: "relief and empowerment" tool for bookkeeping (Udhaar Book) → TO: "professional growth engine" centered on seamless payments (RUPIN) |
+
+#### Target Audience
+- **Who:** Small retail merchants in Pakistan, ambitious for growth
+- **Age:** 28–45 years old
+- **Tech Savviness:** Intermediate (comfortable with modern apps, values efficiency)
+- **Primary Ambition:** Growth — expand business, increase profits, save time
+
+#### Brand Persona: "The Ambitious Partner"
+Rupin, a disruptor in the small business finance space, has crafted a brand persona as the **Ambitious Partner**. By empowering small merchants with tools that were once only available to large corporations, Rupin differentiates itself from simple bookkeeping apps and traditional banking. The brand emphasizes growth, professionalism, and efficiency. It's the tool you use when you're ready to stop just surviving and start growing.
+
+**Archetype:** The Sage + The Ruler
+- **The Sage:** Seeks truth and provides wisdom. Smart, efficient, secure. Provides clarity (cash flow at a glance), knowledge (tracking sales), the "smarter way" to do business. The trusted advisor.
+- **The Ruler:** Seeks control and creates order. Ambitious, professional, empowering. Helps the merchant take control of their finances, establish a professional image, and build their business empire. The symbol of their leadership.
+
+**Personality Traits:** Smart, Efficient, Reliable, Secure, Ambitious, Modern
+**Vibe:** Masculine energy, early 40s. Respected tech leader — not a fleeting influencer. Success comes from intelligence and efficiency. Aspirational because he is smart, in control, and represents the future of business.
+
+#### Core Product Hierarchy ("The New Big Three")
+1. **Wallet** (Payments, Recharge, Bills) — The engine for growth
+2. **Ledger** (Khata) — For smart financial tracking
+3. **Cashbook** (Sales & Expenses) — For a clear view of cash flow
+
+#### Tone of Voice — The 4 Rules (Apply to ALL Rupin Content)
+
+1. **Confident and Direct, Not Arrogant**
+   - Short, declarative sentences. No fluffy or uncertain language.
+   - ❌ "You might be able to grow your business with our easy-to-use payment tools."
+   - ✅ "Grow your business with fast, professional payments."
+
+2. **Professional, Not Corporate or Stuffy**
+   - Articulate and respectful, but never overly formal.
+   - ❌ "Kindly remit the aforementioned transaction at your earliest convenience."
+   - ✅ "Your payment of PKR 5,000 has been sent."
+
+3. **Aspirational and Empowering, Not Just Functional**
+   - Connect features to the user's ultimate goal: growth and success.
+   - ❌ "You can now accept digital payments."
+   - ✅ "Get paid instantly and look professional doing it."
+
+4. **Language of Efficiency and Intelligence**
+   - Central vocabulary: "smart," "efficient," "instant," "clarity," "control."
+   - ❌ "A new way to track your money."
+   - ✅ "The smartest way to manage your cash flow."
+
+#### Creative & Sensory Mandate: Modern, Not Flashy
+- **Core Principle:** The brand's "sexiness" comes from its flawless efficiency and premium feel, not from loud design.
+- **Feeling:** Professional, In Control, Secure, Smart
+- **Visual:** Clean lines, minimalist UI, sophisticated dark color palette with a single vibrant accent for key actions
+- **Color Palette:** Primary: Charcoal Grey (#2C3E50) | Background: Off-White (#F5F7FA) | Accent: Cerulean Blue (#007BFF)
+
+#### Brand Inspirations
+**International:**
+- **Stripe:** Sleek, minimalist design; treats the user like a smart, professional partner
+- **Apple:** Unrelenting focus on UX; makes transactions feel secure and satisfying
+- **Revolut:** Confident, ambitious energy; shows that "fintech" can be exciting
+
+**Local:**
+- **Bykea:** Built immense trust by solving uniquely Pakistani problems with technology. Grounded, reliable, part of daily life.
+- **FoodPanda:** Focus on fast, reliable, simple user journey. Sets the standard for on-demand service.
+- **JazzCash:** Inspired by their success building a trusted mass-market platform. **Differentiation:** While JazzCash is the public bus (for everyone), Rupin is the sleek private car service for professionals who want to get ahead.
+
+#### Brand Advocacy
+We advocate for the ambition of the small merchant. We believe every business owner deserves access to professional financial tools that help them take control, grow their business, and succeed on their own terms.
+
+---
+
 **Why This Rebrand Matters:**
 1. **Legal/Regulatory:** EMI license enables Rupin to operate as a licensed digital wallet and financial institution - a massive leap beyond business management
 2. **Perception Shift:** "Udhaar" (debt/credit) has negative connotations; "Rupin" (money-in) is aspirational and positive

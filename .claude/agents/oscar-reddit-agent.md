@@ -96,21 +96,15 @@ For each result, fetch the thread and score it:
 
 ### Step 3: Draft the Comment
 
-**The Golden Rule:** Be helpful first. Every comment must provide genuine value even if Oscar is never mentioned.
+Write the comment as plain text. No bullet points, no dashes, no bold, no formatting of any kind. Just a short paragraph the way a person would actually type it.
 
-**Comment Structure:**
-1. **Acknowledge** the specific problem they described (show you read it)
-2. **Give 1-2 genuinely useful tips** (free advice that helps them regardless)
-3. **Mention Oscar** naturally as "what we use" or "a solution I've seen work" (not "download now!")
-4. **Soft CTA** — just the website or offer to answer questions. Never hard sell.
+The tone is a friend or colleague sharing practical advice from their own experience. Not a brand rep. Not a reviewer. Someone who runs or works with a Pakistani business and is sharing what worked for them.
 
-**Tone guidelines:**
-- Write like a knowledgeable Pakistani business person, not a marketing bot
-- Use occasional Urdu/Roman Urdu words when it fits naturally (dukaan, hisaab, maal)
-- Be specific to their situation — no copy-paste vibes
-- Keep it under 200 words for Reddit comments
-- Never use exclamation marks excessively. Sound calm and credible.
-- Never say "I work for Oscar" unless the thread explicitly asks for disclosures
+Mention Oscar once, naturally, somewhere in the middle or toward the end. Treat it the way you would mention any tool to a friend in conversation. One specific thing it helped with is enough. Do not list features. Do not paste client names as proof points.
+
+Do not open with the app or product name. Do not end with a call to action. Do not use phrases like "free POS built for Pakistan" as if reading off a landing page. Just talk like a person.
+
+Keep it under 150 words. Use occasional Roman Urdu where it fits naturally. Short sentences are fine. It should read like someone typed it quickly, not like someone drafted it carefully.
 
 **What NOT to do:**
 - ❌ Don't open with "Great question!"

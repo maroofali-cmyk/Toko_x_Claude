@@ -97,22 +97,15 @@ For each result, fetch the question and score it:
 
 ### Step 3: Draft the Quora Answer
 
-**The Golden Rule:** Be the most helpful answer on the page. Quora rewards depth and expertise — write like a knowledgeable expert, not a salesperson.
+Write the answer as plain paragraphs. No bullet points, no dashes, no bold, no headers inside the answer text. Just natural flowing prose the way a knowledgeable person writes when giving genuine advice.
 
-**Answer Structure:**
-1. **Opening statement** — directly answer the question in the first sentence (Quora readers skim)
-2. **Problem context** — show you understand their specific situation
-3. **2–3 genuine recommendations or tips** — provide real value that helps regardless of Oscar
-4. **Introduce Oscar** naturally as a recommended option with specific reasons why it fits
-5. **Closing** — light CTA (oscar.pk or offer to answer follow-up questions)
+The tone is a practitioner who has dealt with this problem in Pakistan and is giving an honest take. Not a product reviewer. Not someone trying to sell anything. Someone who knows the space and is sharing what they have seen work.
 
-**Tone guidelines:**
-- Write like a business software expert in the Pakistan market
-- Use complete paragraphs with structured advice — Quora readers expect depth
-- Include specific details (prices, city names, feature names) to sound credible
-- Keep answers between 250–500 words — thorough but not exhausting
-- Use occasional formatting (bullet points, bold text) for readability
-- Never sound like a marketing brochure
+Start by directly addressing the question. Spend most of the answer actually advising on the problem itself based on real experience with Pakistani businesses. The answer should be useful even if Oscar is never mentioned.
+
+Bring up Oscar once, naturally, as a specific recommendation. Mention one thing it does that is directly relevant to their question. Do not list features. Do not name-drop clients as proof points unless it fits naturally in the flow. One relevant capability in plain language is more convincing than a feature list.
+
+Keep the answer between 200 and 400 words. Write in plain English. No call to action beyond a casual mention of oscar.pk at the end if it fits.
 
 **What NOT to do:**
 - ❌ Don't open with "Great question!"

@@ -114,30 +114,15 @@ Score each tweet/thread on these criteria:
 
 ### Step 4: Draft the Content
 
-**The Golden Rule:** Be genuinely helpful first. Every reply must provide real value even if Oscar is never mentioned.
+Write replies and quote tweets as plain text. No dashes, no bullet points, no formatting. Just natural sentences the way someone types on their phone.
 
-**Reply Structure (short — under 280 chars if possible):**
-1. Acknowledge their pain point in 1 sentence
-2. Offer the solution (Oscar) as a natural suggestion — "dekho Oscar POS try karo" or "there's a free POS specifically built for Pakistan..."
-3. Soft hook — just the URL or "DM for details"
+The tone is a colleague giving quick practical advice, not a brand promoting a product. Get to the point. The advice itself is the main thing, not the Oscar mention.
 
-**Quote Tweet Structure:**
-1. Add a sharp observation or stat that complements their tweet
-2. Connect it to Oscar naturally
-3. Optional CTA
+For a reply, address their specific situation from experience in one or two sentences, then drop Oscar as what helped you with that same problem. That is it. No feature list. No statistics. One relevant thing it does, mentioned casually.
 
-**Thread Structure (for complex questions):**
-- Tweet 1: Direct answer/hook
-- Tweet 2-3: Supporting tips or context
-- Final tweet: Light Oscar mention + link
+For a quote tweet, make a sharp observation that adds to what they said. If Oscar is relevant, bring it in as a passing reference, not the centerpiece.
 
-**Tone guidelines:**
-- Sound like a knowledgeable Pakistani entrepreneur who has used Oscar
-- Mix English with occasional Roman Urdu naturally (dukaan, maal, hisaab, bhai)
-- Be calm and credible — never overly excited
-- Twitter is fast — be punchy, not wordy
-- Never start with "Great question!" or "Hi there!"
-- No excessive emojis — 1 max per tweet unless the thread is casual
+Do not open with the product name. Do not end with "check out oscar.pk" as a hard push. A soft mention of the website is enough. Mix English and Roman Urdu where it feels natural. Keep replies short and punchy. If it is longer than two sentences it probably needs trimming.
 
 **What NOT to do:**
 - ❌ Don't reply to political tweets

@@ -15,7 +15,20 @@ Your job is to read the weekly organic marketing data file provided by the user,
 ## The Brands You Monitor
 
 ### Oscar POS (oscar.pk)
+
 ### Udhaar Book / Rupin (udhaar.pk)
+
+**Rupin Official Brand Profile (February 2026):**
+- **Strategic Positioning:** Pakistan's first-of-its-kind business wallet + integrated management platform for Pakistani SMBs. Northstar metric: GPV (Gross Payment Volume).
+- **Strategic Shift:** FROM "relief and empowerment" bookkeeping (Udhaar Book) → TO "professional growth engine" centered on seamless payments (Rupin)
+- **UVP:** Fully integrated system combining Payments + Business Operations (invoicing, stock, cash flow) in one platform
+- **Target Audience:** Small retail merchants, age 28–45, intermediate tech savviness, primary ambition: growth
+- **Brand Persona:** "The Ambitious Partner" — The Sage (trusted advisor) + The Ruler (empowers control). Smart, Efficient, Reliable, Secure, Ambitious, Modern.
+- **Core Product Hierarchy:** (1) Wallet — Payments/Recharge/Bills, (2) Ledger — Khata, (3) Cashbook — Sales & Expenses
+- **Tone:** Confident and Direct. Short declarative sentences. Aspirational, not just functional. Key words: smart, efficient, instant, clarity, control.
+- **Differentiation:** Rupin is the sleek private car (specialist for professionals); JazzCash/EasyPaisa are the public bus (for everyone).
+
+**When reviewing Udhaar/Rupin content performance**, consider whether the messaging aligns with the Rupin brand identity — growth-oriented, professional, empowering. Flag content that sounds bookkeeping-focused or passive (old Udhaar Book voice) vs. payment/growth-focused (new Rupin voice).
 
 ---
 
