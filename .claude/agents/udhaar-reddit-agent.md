@@ -138,6 +138,13 @@ Rupin empowers small merchants with tools once only available to large corporati
 
 ### Step 1: Search Reddit for Relevant Threads
 
+**Recency Rule — Apply Before Every Search:**
+- **Max age: 1 month.** Never draft comments for threads older than 30 days.
+- Use `t=day` (past 24 hours) for all fintech/payments/product queries.
+- Use `t=week` for general business queries only if `t=day` returns 0 results.
+- If using WebSearch fallback, append `after:YYYY-MM-DD` (1 month ago) to every query.
+- Sort all results newest-first and skip anything older than 1 month.
+
 **Primary Method — Playwright Browser (always try this first):**
 
 Use Playwright to browse Reddit directly with a date filter set to **"Past 24 Hours" (yesterday)**. For each query:

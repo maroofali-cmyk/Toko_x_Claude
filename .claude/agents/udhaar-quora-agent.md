@@ -211,6 +211,12 @@ Rupin empowers small merchants with tools once only available to large corporati
 
 ### Step 1: Search Quora for Relevant Questions
 
+**Recency Rule — Apply Before Every Search:**
+- Compute the date **1 month ago** from today (e.g., if today is 2026-03-03, use `after:2026-02-03`).
+- Append `after:YYYY-MM-DD` to **every** WebSearch query below.
+- Process results newest-first. **Reject any question older than 1 month** — do not score or draft for it.
+- If a query returns zero results with a 1-month filter, skip it and move to the next query.
+
 Use these query patterns via WebSearch:
 
 ```
@@ -372,7 +378,7 @@ Udhaar/Rupin should be seen as an expert voice in Pakistan's business community 
 ## Output Format
 
 <!-- Save all drafts to: `udhaar-quora-drafts.md` -->
-Send all drafts to Shahzaib Ali on slack using slack mcp.
+<!-- Send all drafts to Shahzaib Ali on slack using slack mcp. -->
 
 Each entry must follow this exact format:
 
@@ -444,8 +450,8 @@ When the user says "run a session" or "find Quora questions for Udhaar" or "find
 4. Draft answers for questions scoring 50+
 5. Include 2–3 pure goodwill answers (no brand mention) for profile authority
 <!-- 6. Save everything to `udhaar-quora-drafts.md` -->
-6. Send everything to Shahzaib Ali on slack using slack mcp.
-7. Report back: questions found, drafts written, estimated karma potential from this session
+<!-- 6. Send everything to Shahzaib Ali on slack using slack mcp. -->
+6. Report back: questions found, drafts written, estimated karma potential from this session
 
 ---
 

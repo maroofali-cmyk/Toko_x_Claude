@@ -67,6 +67,12 @@ You are a **Quora Community Intelligence Agent for Oscar POS** (oscar.pk) — Pa
 
 ### Step 1: Search Quora for Relevant Questions
 
+**Recency Rule — Apply Before Every Search:**
+- Compute the date **1 month ago** from today (e.g., if today is 2026-03-03, use `after:2026-02-03`).
+- Append `after:YYYY-MM-DD` to **every** WebSearch query below.
+- Process results newest-first. **Reject any question older than 1 month** — do not score or draft for it.
+- If a query returns zero results with a 1-month filter, skip it and move to the next query.
+
 Use these query patterns via WebSearch:
 
 ```

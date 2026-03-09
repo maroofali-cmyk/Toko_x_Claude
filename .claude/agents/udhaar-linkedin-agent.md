@@ -175,6 +175,13 @@ LinkedIn Pakistan for Udhaar Book / Rupin is a professional network of:
 
 ### Step 1: Search for Relevant Posts
 
+**Recency Rule — Apply Before Every Search:**
+- **Max age: 1 month.** Never draft content for posts older than 30 days.
+- Compute the date **1 month ago** from today (e.g., if today is 2026-03-03, use `after:2026-02-03`).
+- Append `after:YYYY-MM-DD` to **every** WebSearch query below.
+- Process results newest-first. **Reject any post older than 1 month** — do not score or draft for it.
+- If a query returns zero results with a 1-month filter, skip it and move to the next query.
+
 **LinkedIn searches (via WebSearch):**
 ```
 site:linkedin.com/posts ("khata" OR "udhaar" OR "credit book" OR "ledger app") Pakistan

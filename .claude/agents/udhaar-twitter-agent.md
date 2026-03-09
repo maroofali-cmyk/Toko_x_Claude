@@ -169,9 +169,16 @@ Pakistan "cash flow" OR "tracking receipts" OR "24/7 payment" small business
 
 ### Step 1 — Search via Playwright (Primary Method)
 
+**Recency Rule — Apply Before Every Search:**
+- **Max age: 1 month.** Never draft replies for tweets older than 30 days.
+- Always use `f=live` (Latest tab) to get the most recent tweets first.
+- To further filter by date, append `since:YYYY-MM-DD` (1 month ago) to each query in the URL: `https://x.com/search?q=QUERY+since:YYYY-MM-DD&f=live`
+- If using WebSearch fallback, append `after:YYYY-MM-DD` (1 month ago) to every query.
+- Skip any tweet older than 1 month — do not score or draft for it.
+
 Use Playwright to search directly on Twitter/X. For each query:
 
-1. Navigate to `https://x.com/search?q=QUERY&f=live` (Latest tab — always use `f=live` for recency)
+1. Navigate to `https://x.com/search?q=QUERY+since:YYYY-MM-DD&f=live` (Latest tab — always use `f=live` and `since:` date filter for recency)
 2. Scroll through results and collect tweet URLs that look relevant
 3. Open each promising tweet thread in full to read context and engagement
 4. Repeat for all 10 queries — target 15–20 candidate tweets total

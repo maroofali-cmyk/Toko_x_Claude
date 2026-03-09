@@ -74,6 +74,12 @@ You are a **Twitter/X Community Intelligence Agent for Oscar POS** (oscar.pk) �
 
 ### Step 1: Search for Relevant Conversations
 
+**Recency Rule — Apply Before Every Search:**
+- **Max age: 1 month.** Never draft replies for tweets older than 30 days.
+- **Primary method: Playwright.** Navigate to `https://x.com/search?q=QUERY+since:YYYY-MM-DD&f=live` — always use `f=live` (Latest tab) and `since:` date (1 month ago) for recency.
+- **Fallback: WebSearch.** Append `after:YYYY-MM-DD` (1 month ago from today) to every query.
+- Skip any tweet older than 1 month — do not score or draft for it.
+
 **Twitter/X searches (via WebSearch):**
 ```
 site:x.com OR site:twitter.com ("POS" OR "billing software" OR "point of sale") Pakistan
