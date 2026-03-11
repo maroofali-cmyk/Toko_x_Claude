@@ -15,6 +15,6 @@ Execute the full Udhaar Book / Rupin Quora community engagement session:
    - Draft answers only for questions scoring 50+ (Step 3)
    - Include 2–3 goodwill answers with no brand mention
 
-3. **Send output to Sheheryar Izhar on Slack**
-   - Use Slack MCP to find Sheheryar Izhar and send the full session report
+3. **Send output to Ali Hashim on Slack**
+   - Use Slack MCP to find Ali Hashim and send the full session report
    - Include: karma tracker summary, all drafts, thread URLs, and relevance scores
