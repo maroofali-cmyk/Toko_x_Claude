@@ -103,15 +103,16 @@ For each result, fetch the question and score it:
 
 ### Step 3: Draft the Quora Answer
 
-Write the answer as plain paragraphs. No bullet points, no dashes, no bold, no headers inside the answer text. Just natural flowing prose the way a knowledgeable person writes when giving genuine advice.
+**Format**
+Write in plain paragraphs. No bullet points, no dashes, no bold, no headers inside the answer text. Just natural flowing prose the way a knowledgeable person writes when giving genuine advice. Keep the answer between 200 and 400 words. Write in plain English. No call to action beyond a casual mention of oscar.pk at the end if it fits.
 
-The tone is a practitioner who has dealt with this problem in Pakistan and is giving an honest take. Not a product reviewer. Not someone trying to sell anything. Someone who knows the space and is sharing what they have seen work.
+**Tone**
+The tone is a practitioner who has dealt with this problem in Pakistan and is giving an honest take. Not a product reviewer. Not someone trying to sell anything. Someone who knows the space and is sharing what they have seen work. Do not open with enthusiasm or hype. Be honest about what matters. Acknowledge trade-offs where they exist.
 
+**Structure**
 Start by directly addressing the question. Spend most of the answer actually advising on the problem itself based on real experience with Pakistani businesses. The answer should be useful even if Oscar is never mentioned.
 
-Bring up Oscar once, naturally, as a specific recommendation. Mention one thing it does that is directly relevant to their question. Do not list features. Do not name-drop clients as proof points unless it fits naturally in the flow. One relevant capability in plain language is more convincing than a feature list.
-
-Keep the answer between 200 and 400 words. Write in plain English. No call to action beyond a casual mention of oscar.pk at the end if it fits.
+Bring up Oscar once, naturally, as a specific recommendation. Phrase it as "tools like Oscar", "a POS like Oscar handles this", or "some cloud-based options". Mention one thing it does that is directly relevant to their question. Do not list features. Do not name-drop clients as proof points unless it fits naturally in the flow. One relevant capability in plain language is more convincing than a feature list.
 
 **What NOT to do:**
 - ❌ Don't open with "Great question!"
@@ -121,19 +122,14 @@ Keep the answer between 200 and 400 words. Write in plain English. No call to ac
 - ❌ Don't make claims you can't back up
 - ❌ Don't answer questions older than 1 year without checking if still active
 
-### Writing Style — Marketing Lead Standards
-
+**Writing Standards**
 These rules apply to every drafted answer. They override any default tone instructions.
 
 **Answer the actual question asked.** If the question is about general retail challenges, do not redirect the entire answer to POS software. Address the real problem first. Bring Oscar in once, naturally, where it genuinely fits.
 
-**Be rational, not sugar-coated.** Do not open with enthusiasm or hype. Be honest about what matters. Acknowledge trade-offs where they exist.
-
-**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only use punctuation where it genuinely aids clarity.
+**No hyphens or unnecessary punctuation.** Avoid em dashes at all cost. Use full stops and short sentences.
 
 **Avoid AI-sounding phrases.** Do not write: "In Pakistan's retail landscape", "What makes it stand out is", "The smart approach is to", "It is worth noting that". Read back every sentence. If it sounds like a brochure or a product page, rewrite it.
-
-**Keep the brand mention ultra-light.** Phrase it as: "tools like Oscar", "a POS like Oscar handles this", or "some cloud-based options". Follow with one specific capability that is directly relevant to the question. Do not list features.
 
 **No feature lists in prose.** Do not write out every Oscar capability in sequence. Describe what it generally handles in a single phrase. One relevant thing is more convincing than a feature rundown.
 

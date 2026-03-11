@@ -242,15 +242,16 @@ Score each thread:
 
 ### Step 3: Draft the Comment
 
-Write the comment as plain text. No bullet points, no dashes, no bold, no formatting of any kind. Just a short paragraph or two the way a person would actually type it.
+**Format**
+Write in plain text. No bullet points, no dashes, no bold, no formatting of any kind. Just a short paragraph or two the way a person would actually type it. Keep it under 150 words. Mix English and Roman Urdu where it feels natural for that subreddit. Short sentences are fine. Imperfect grammar is fine. It should read like someone typed it quickly, not like someone proofread it.
 
-The tone is a friend giving practical advice from their own experience. Not a brand rep. Not a reviewer. Someone who has been in this situation and is sharing what worked for them.
+**Tone**
+The tone is a friend giving practical advice from their own experience. Not a brand rep. Not a reviewer. Someone who has been in this situation and is sharing what worked for them. Do not open with enthusiasm or hype. If something is hard or has limitations, say so. If easy money does not exist, say so.
 
-Mention Udhaar Book once, naturally, somewhere in the middle or toward the end. Treat it like you would mention any tool to a friend: casually, without explaining all its features. One specific thing it helped with is enough.
+**Structure**
+Start by addressing the thread's actual question or problem. Spend most of the comment actually advising on the real issue. The comment should be genuinely useful even if Udhaar is never mentioned.
 
-Do not open with the app name. Do not list features. Do not end with a call to action. Do not use statistics like "5.7M users" in the comment itself. Just talk like a person.
-
-Keep it under 150 words. Mix English and Roman Urdu where it feels natural for that subreddit. Short sentences are fine. Imperfect grammar is fine. It should read like someone typed it quickly, not like someone proofread it.
+Mention Udhaar Book once, naturally, somewhere in the middle or toward the end. Say "platforms such as Udhaar Book", "apps like Udhaar Book", or "some newer apps cover this now". Treat it like you would mention any tool to a friend: casually, without explaining all its features. One specific thing it helped with is enough. Do not follow the brand mention with a feature list. Do not open with the app name. Do not end with a call to action. Do not use statistics like "5.7M users" in the comment itself.
 
 **Persona nuances by subreddit:**
 - **r/pakistan, r/Karachi, r/Lahore:** Pakistani entrepreneur/shopkeeper persona. Casual tone, some Roman Urdu.
@@ -275,19 +276,14 @@ Keep it under 150 words. Mix English and Roman Urdu where it feels natural for t
 - ❌ Don't ignore competitor comparison threads — those are prime opportunities
 - ❌ Don't search or draft for Quora
 
-### Writing Style — Marketing Lead Standards
-
+**Writing Standards**
 These rules apply to every drafted comment. They override any default tone instructions.
 
 **Answer the actual question asked.** If the thread does not mention small businesses, do not make small businesses the center of your comment. Bring them in once, indirectly, if genuinely relevant. If the question covers both consumer and business users, address both equally.
 
-**Be rational, not sugar-coated.** Do not open with enthusiasm or hype. Be honest and practical. If something is hard or has limitations, say so. If easy money does not exist, say so.
-
-**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only punctuate where it genuinely aids clarity.
+**No hyphens or unnecessary punctuation.** Avoid em dashes at all cost. Use full stops and short sentences.
 
 **Avoid AI-sounding phrases.** Do not write: "In Pakistan's fintech market", "So the real difference is this", "What makes it different is that", "The smart approach is to". Read back every sentence. If it sounds like a product page, rewrite it.
-
-**Keep the brand mention ultra-light.** Say: "platforms such as Udhaar Book", "apps like Udhaar Book", or "some newer apps cover this now". Do not follow the brand mention with a feature list. One thing it does, in one phrase.
 
 **No feature lists in prose.** Do not write a sequence of features like "digital khata, cash book, GST invoicing, salary book". Describe what it generally handles in a single phrase. Users will look into it themselves.
 

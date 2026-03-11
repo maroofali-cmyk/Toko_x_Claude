@@ -208,19 +208,16 @@ Use Playwright to search directly on Twitter/X. For each query:
 
 ### Step 4 — Draft Content
 
-Write replies and quote tweets as plain text. No dashes, no bullet points, no formatting. Just natural sentences the way someone types on their phone.
+**Format**
+Write replies and quote tweets as plain text. No dashes, no bullet points, no formatting. Just natural sentences the way someone types on their phone. Write in English. Keep replies under 240 characters where possible. If longer, make sure every word earns its place. If the rebrand is announced, use "Rupin (formerly Udhaar Book)".
 
-The tone is a friend giving quick practical advice, not a brand promoting a product. Get to the point fast. Twitter is short so the advice itself should be the main thing, not the app mention.
+**Tone**
+The tone is a friend giving quick practical advice, not a brand promoting a product. Get to the point fast. Twitter is short so the advice itself should be the main thing, not the app mention. Do not hype or oversell. If something is hard, say so. Direct and honest beats warm and vague.
 
-For a reply, address their specific situation in a sentence or two from personal experience, then casually drop Udhaar Book as what helped you with the same thing. That is it. No feature list. No statistics. One relevant thing it does, mentioned naturally.
+**Structure**
+For a reply, address their specific situation in a sentence or two from personal experience, then casually drop Udhaar Book as what helped you with the same thing. Say "apps like Udhaar Book help with this", "Udhaar Book covers that", or just drop the name once mid-reply. That is it. No feature list. No statistics. One relevant thing it does, mentioned naturally. Do not open with the app name. A soft mention of udhaar.pk is enough.
 
 For a quote tweet, make a sharp observation that adds to what they said. If Udhaar is relevant, bring it in as a passing reference, not the centerpiece.
-
-Do not open with the app name. Do not use statistics like "5.7M users" in the reply. Keep it simple and direct — a soft mention of udhaar.pk is enough.
-
-Write in English. Keep replies under 240 characters where possible. If longer, make sure every word earns its place.
-
-If rebrand is announced, use "Rupin (formerly Udhaar Book)".
 
 **Persona by user type:**
 - **Shopkeepers/kiryana owners:** Khata recovery, free SMS reminders, ease of use
@@ -236,19 +233,14 @@ If rebrand is announced, use "Rupin (formerly Udhaar Book)".
 - ❌ Don't engage with tweets older than 90 days
 - ❌ Don't claim features that don't exist
 
-### Writing Style — Marketing Lead Standards
-
+**Writing Standards**
 These rules apply to every drafted reply and quote tweet. They override any default tone instructions.
 
 **Answer the actual question.** If the tweet is a consumer question, do not pivot to a small business angle. If it covers both consumer and business users, address both. Match the reader's intent.
 
-**Be rational, not sugar-coated.** Do not hype or oversell. If something is hard, say so. Direct and honest beats warm and vague.
-
-**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops. Twitter is short — every word should earn its place.
+**No hyphens or unnecessary punctuation.** Avoid em dashes at all cost. Use full stops and short sentences.
 
 **Avoid AI-sounding phrases.** Do not write: "In Pakistan's fintech market", "What makes it different is", "The smart approach is to". If the draft sounds like a product page, rewrite it.
-
-**Brand mention must be casual.** Say: "apps like Udhaar Book help with this", "Udhaar Book covers that", or just drop the name once mid-reply. Do not follow it with features. One thing, in plain language.
 
 **No stats in replies.** Do not write "5.7M users", "4X recovery rate", "Y Combinator W21". These read like marketing copy, not a person's advice.
 

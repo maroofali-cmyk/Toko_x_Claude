@@ -120,15 +120,23 @@ Score each tweet/thread on these criteria:
 
 ### Step 4: Draft the Content
 
-Write replies and quote tweets as plain text. No dashes, no bullet points, no formatting. Just natural sentences the way someone types on their phone.
+**Format**
+Write replies and quote tweets as plain text. No dashes, no bullet points, no formatting. Just natural sentences the way someone types on their phone. Mix English and Roman Urdu where it feels natural. Keep replies short and punchy. If it is longer than two sentences it probably needs trimming.
 
-The tone is a colleague giving quick practical advice, not a brand promoting a product. Get to the point. The advice itself is the main thing, not the Oscar mention.
+**Tone**
+The tone is a colleague giving quick practical advice, not a brand promoting a product. Get to the point. The advice itself is the main thing, not the Oscar mention. Do not open with enthusiasm. Be honest and practical. Acknowledge challenges before suggesting a solution.
 
-For a reply, address their specific situation from experience in one or two sentences, then drop Oscar as what helped you with that same problem. That is it. No feature list. No statistics. One relevant thing it does, mentioned casually.
+**Structure**
+For a reply, address their specific situation from experience in one or two sentences, then drop Oscar as what helped you with that same problem. Say "a POS like Oscar handles this", "Oscar covers that", or just drop the name once in passing. That is it. No feature list. No statistics. One relevant thing it does, mentioned casually. Do not open with the product name. A soft mention of the website is enough, not a hard push.
 
 For a quote tweet, make a sharp observation that adds to what they said. If Oscar is relevant, bring it in as a passing reference, not the centerpiece.
 
-Do not open with the product name. Do not end with "check out oscar.pk" as a hard push. A soft mention of the website is enough. Mix English and Roman Urdu where it feels natural. Keep replies short and punchy. If it is longer than two sentences it probably needs trimming.
+**Persona by context:**
+- **Retail shop owners:** Free plan, FBR compliance, inventory alerts
+- **Restaurant/F&B:** KDS, table management, fast checkout, Dunkin'/Burger Lab social proof
+- **Franchise/Multi-location:** Central dashboard, 40+ locations proof point
+- **Startups asking for recs:** Oscar free plan, no upfront cost, local support
+- **FBR compliance worries:** Built-in FBR reporting, no manual work
 
 **What NOT to do:**
 - ❌ Don't reply to political tweets
@@ -138,32 +146,20 @@ Do not open with the product name. Do not end with "check out oscar.pk" as a har
 - ❌ Don't make unverifiable claims
 - ❌ Don't keyword-stuff or list features like a brochure
 
-### Writing Style — Marketing Lead Standards
-
+**Writing Standards**
 These rules apply to every drafted reply and quote tweet. They override any default tone instructions.
 
 **Answer the actual question.** If the tweet is about a general retail challenge, do not make the reply entirely about POS software. Address the real problem first. Bring Oscar in once, naturally, where it solves the specific pain.
 
-**Be rational, not sugar-coated.** Do not open with enthusiasm. Be honest and practical. Acknowledge challenges before suggesting a solution.
-
-**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops. Every word should earn its place.
+**No hyphens or unnecessary punctuation.** Avoid em dashes at all cost. Use full stops and short sentences.
 
 **Avoid AI-sounding phrases.** Do not write: "In Pakistan's retail landscape", "What makes Oscar stand out is", "The smart approach for businesses is". If the draft sounds like a product page, rewrite it.
-
-**Brand mention must be casual.** Say: "a POS like Oscar handles this", "Oscar covers that", or just drop the name once in passing. Do not follow it with a feature rundown. One thing, in plain language.
 
 **No stats as marketing signals.** Do not lead with "60% increase in monthly sales". Use real outcomes only when directly answering a specific question about results.
 
 **Practical beats aspirational.** Give advice the reader can act on today. Specific and grounded beats general and impressive.
 
 **Short sentences only.** If it is over 20 words, split it. Read it back. If it sounds like a brochure, trim it.
-
-**Persona by context:**
-- **Retail shop owners:** Free plan, FBR compliance, inventory alerts
-- **Restaurant/F&B:** KDS, table management, fast checkout, Dunkin'/Burger Lab social proof
-- **Franchise/Multi-location:** Central dashboard, 40+ locations proof point
-- **Startups asking for recs:** Oscar free plan, no upfront cost, local support
-- **FBR compliance worries:** Built-in FBR reporting, no manual work
 
 ---
 

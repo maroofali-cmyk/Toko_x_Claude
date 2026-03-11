@@ -104,15 +104,16 @@ For each result, fetch the thread and score it:
 
 ### Step 3: Draft the Comment
 
-Write the comment as plain text. No bullet points, no dashes, no bold, no formatting of any kind. Just a short paragraph the way a person would actually type it.
+**Format**
+Write in plain text. No bullet points, no dashes, no bold, no formatting of any kind. Just a short paragraph the way a person would actually type it. Keep it under 150 words. Use occasional Roman Urdu where it fits naturally. It should read like someone typed it quickly, not like someone drafted it carefully.
 
-The tone is a friend or colleague sharing practical advice from their own experience. Not a brand rep. Not a reviewer. Someone who runs or works with a Pakistani business and is sharing what worked for them.
+**Tone**
+The tone is a friend or colleague sharing practical advice from their own experience. Not a brand rep. Not a reviewer. Someone who runs or works with a Pakistani business and is sharing what worked for them. Do not open with enthusiasm. Be honest and practical. Acknowledge if something is a real challenge before suggesting a solution.
 
-Mention Oscar once, naturally, somewhere in the middle or toward the end. Treat it the way you would mention any tool to a friend in conversation. One specific thing it helped with is enough. Do not list features. Do not paste client names as proof points.
+**Structure**
+Start by addressing the thread's actual question or problem. Spend most of the comment actually advising on the real issue. The comment should be genuinely useful even if Oscar is never mentioned.
 
-Do not open with the app or product name. Do not end with a call to action. Do not use phrases like "free POS built for Pakistan" as if reading off a landing page. Just talk like a person.
-
-Keep it under 150 words. Use occasional Roman Urdu where it fits naturally. Short sentences are fine. It should read like someone typed it quickly, not like someone drafted it carefully.
+Mention Oscar once, naturally, somewhere in the middle or toward the end. Say "a POS like Oscar handles that", "tools like Oscar", or just drop the name casually mid-sentence. One specific thing it helped with is enough. Do not follow it with a feature rundown. Do not paste client names as proof points. Do not open with the product name. Do not end with a call to action.
 
 **What NOT to do:**
 - ❌ Don't open with "Great question!"
@@ -123,19 +124,14 @@ Keep it under 150 words. Use occasional Roman Urdu where it fits naturally. Shor
 - ❌ Don't make claims you can't back up
 - ❌ Don't post on threads older than 1 year
 
-### Writing Style — Marketing Lead Standards
-
+**Writing Standards**
 These rules apply to every drafted comment. They override any default tone instructions.
 
 **Answer the actual question asked.** If the thread is about a general retail challenge, do not make it entirely about POS software. Address the real problem first. Bring Oscar in once, naturally, where it genuinely solves the specific pain.
 
-**Be rational, not sugar-coated.** Do not open with enthusiasm. Be honest and practical. Acknowledge if something is a real challenge before suggesting a solution.
-
-**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only punctuate where it genuinely aids clarity.
+**No hyphens or unnecessary punctuation.** Avoid em dashes at all cost. Use full stops and short sentences.
 
 **Avoid AI-sounding phrases.** Do not write: "In Pakistan's retail landscape", "What makes Oscar stand out is", "The smart approach for Pakistani businesses is". Read back every sentence. If it sounds like a product page, rewrite it.
-
-**Keep the brand mention ultra-light.** Say: "a POS like Oscar handles that", "tools like Oscar", or just drop the name casually mid-sentence. Do not follow it with a feature rundown. One thing, in plain language.
 
 **No feature lists in prose.** Do not write a sequence of Oscar capabilities. Describe what it generally handles in a phrase. One relevant thing is more convincing than a list.
 
