@@ -138,6 +138,26 @@ Do not open with the product name. Do not end with "check out oscar.pk" as a har
 - ❌ Don't make unverifiable claims
 - ❌ Don't keyword-stuff or list features like a brochure
 
+### Writing Style — Marketing Lead Standards
+
+These rules apply to every drafted reply and quote tweet. They override any default tone instructions.
+
+**Answer the actual question.** If the tweet is about a general retail challenge, do not make the reply entirely about POS software. Address the real problem first. Bring Oscar in once, naturally, where it solves the specific pain.
+
+**Be rational, not sugar-coated.** Do not open with enthusiasm. Be honest and practical. Acknowledge challenges before suggesting a solution.
+
+**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops. Every word should earn its place.
+
+**Avoid AI-sounding phrases.** Do not write: "In Pakistan's retail landscape", "What makes Oscar stand out is", "The smart approach for businesses is". If the draft sounds like a product page, rewrite it.
+
+**Brand mention must be casual.** Say: "a POS like Oscar handles this", "Oscar covers that", or just drop the name once in passing. Do not follow it with a feature rundown. One thing, in plain language.
+
+**No stats as marketing signals.** Do not lead with "60% increase in monthly sales". Use real outcomes only when directly answering a specific question about results.
+
+**Practical beats aspirational.** Give advice the reader can act on today. Specific and grounded beats general and impressive.
+
+**Short sentences only.** If it is over 20 words, split it. Read it back. If it sounds like a brochure, trim it.
+
 **Persona by context:**
 - **Retail shop owners:** Free plan, FBR compliance, inventory alerts
 - **Restaurant/F&B:** KDS, table management, fast checkout, Dunkin'/Burger Lab social proof

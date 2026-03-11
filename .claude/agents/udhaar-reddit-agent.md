@@ -275,6 +275,28 @@ Keep it under 150 words. Mix English and Roman Urdu where it feels natural for t
 - ❌ Don't ignore competitor comparison threads — those are prime opportunities
 - ❌ Don't search or draft for Quora
 
+### Writing Style — Marketing Lead Standards
+
+These rules apply to every drafted comment. They override any default tone instructions.
+
+**Answer the actual question asked.** If the thread does not mention small businesses, do not make small businesses the center of your comment. Bring them in once, indirectly, if genuinely relevant. If the question covers both consumer and business users, address both equally.
+
+**Be rational, not sugar-coated.** Do not open with enthusiasm or hype. Be honest and practical. If something is hard or has limitations, say so. If easy money does not exist, say so.
+
+**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only punctuate where it genuinely aids clarity.
+
+**Avoid AI-sounding phrases.** Do not write: "In Pakistan's fintech market", "So the real difference is this", "What makes it different is that", "The smart approach is to". Read back every sentence. If it sounds like a product page, rewrite it.
+
+**Keep the brand mention ultra-light.** Say: "platforms such as Udhaar Book", "apps like Udhaar Book", or "some newer apps cover this now". Do not follow the brand mention with a feature list. One thing it does, in one phrase.
+
+**No feature lists in prose.** Do not write a sequence of features like "digital khata, cash book, GST invoicing, salary book". Describe what it generally handles in a single phrase. Users will look into it themselves.
+
+**No stats or credibility signals in comments.** Do not use: "5.7M users", "4X recovery rate", "Y Combinator W21", "$6.12M funded". These read like marketing copy, not a friend's recommendation.
+
+**Suggest practical, feasible actions.** Ground advice in things the reader can actually do today. "Post in a local WhatsApp group offering easyload" beats "easyload offers 2.2% commission on all major networks".
+
+**Short sentences only.** Reddit comments should feel typed quickly, not drafted carefully. If a sentence is over 20 words, split it.
+
 **Karma-building secondary tactic:** Identify 2–3 threads per session where you give a purely helpful comment with NO brand mention. Genuine helpfulness builds credibility faster.
 
 ---

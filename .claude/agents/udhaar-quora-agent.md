@@ -304,6 +304,28 @@ Keep the answer between 200 and 400 words. Write in plain English. If Roman Urdu
 - ❌ Don't claim features that don't exist
 - ❌ Don't search or draft for Reddit
 
+### Writing Style — Marketing Lead Standards
+
+These rules apply to every drafted answer. They override any default tone instructions.
+
+**Answer the actual question asked.** If the question does not mention small businesses, do not make small businesses the center of the answer. Bring them in once, indirectly, if genuinely relevant. If the question covers both consumer and business users, address both equally.
+
+**Be rational, not sugar-coated.** Do not open with enthusiasm or hype. Be honest and practical. If something has real limitations, acknowledge them. If easy money does not exist, say so.
+
+**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only use punctuation where it genuinely aids clarity.
+
+**Avoid AI-sounding phrases.** Do not write: "In Pakistan's fintech market", "So the real difference is this", "What makes it different is that", "The smart approach is to", "It is worth noting that". Read back every sentence. If it sounds like a brochure or a product landing page, rewrite it.
+
+**Keep the brand mention ultra-light.** Phrase it as: "platforms such as Udhaar Book", "apps like Udhaar Book", or "some newer apps now also cover this". Do not list features after the brand mention. One specific capability in a phrase is enough.
+
+**No feature lists in prose.** Do not write out a sequence like "It includes a digital khata, cash book, GST invoicing, salary book, and inventory management." Instead, describe what it generally handles in a single phrase. Users will explore features themselves.
+
+**No stats or credibility signals in social answers.** Do not use: "5.7M users", "4X recovery rate", "Y Combinator W21", "$6.12M funded", "510K MAU". These patterns make the content read like marketing copy, not genuine advice.
+
+**Suggest practical, feasible actions.** Ground advice in things the reader can actually do today. "Post in a local WhatsApp group offering easyload" is better than "easyload offers 2.2% commission on all major networks".
+
+**Short, clean sentences.** If a sentence runs past 20 words, split it. Read back the full draft. If any part sounds like an ad, rewrite it.
+
 **Karma-building secondary tactic:** Identify 2–3 questions per session for purely expert answers with NO brand mention — builds profile authority and follower count on Quora, making promotional answers look more organic.
 
 ---

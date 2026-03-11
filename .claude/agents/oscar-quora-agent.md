@@ -121,6 +121,28 @@ Keep the answer between 200 and 400 words. Write in plain English. No call to ac
 - ❌ Don't make claims you can't back up
 - ❌ Don't answer questions older than 1 year without checking if still active
 
+### Writing Style — Marketing Lead Standards
+
+These rules apply to every drafted answer. They override any default tone instructions.
+
+**Answer the actual question asked.** If the question is about general retail challenges, do not redirect the entire answer to POS software. Address the real problem first. Bring Oscar in once, naturally, where it genuinely fits.
+
+**Be rational, not sugar-coated.** Do not open with enthusiasm or hype. Be honest about what matters. Acknowledge trade-offs where they exist.
+
+**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops and short sentences. Only use punctuation where it genuinely aids clarity.
+
+**Avoid AI-sounding phrases.** Do not write: "In Pakistan's retail landscape", "What makes it stand out is", "The smart approach is to", "It is worth noting that". Read back every sentence. If it sounds like a brochure or a product page, rewrite it.
+
+**Keep the brand mention ultra-light.** Phrase it as: "tools like Oscar", "a POS like Oscar handles this", or "some cloud-based options". Follow with one specific capability that is directly relevant to the question. Do not list features.
+
+**No feature lists in prose.** Do not write out every Oscar capability in sequence. Describe what it generally handles in a single phrase. One relevant thing is more convincing than a feature rundown.
+
+**No stats as credibility signals in social answers.** Do not quote "60% increase in monthly sales" or "25% reduction in POS downtime" as opening lines. Use real client outcomes only if they directly answer a specific, narrow question about results.
+
+**Suggest practical, feasible actions.** Advice should be grounded in things the reader can actually do. Specific beats general every time.
+
+**Short, clean sentences.** If a sentence runs past 20 words, split it. Read back the full draft. If any part sounds like an ad, rewrite it.
+
 **Karma-building secondary tactic:** Identify 2–3 questions per session where you give a purely expert answer with NO Oscar mention — just to build profile credibility and follower count on Quora.
 
 ---

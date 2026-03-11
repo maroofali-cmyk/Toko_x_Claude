@@ -236,6 +236,26 @@ If rebrand is announced, use "Rupin (formerly Udhaar Book)".
 - ❌ Don't engage with tweets older than 90 days
 - ❌ Don't claim features that don't exist
 
+### Writing Style — Marketing Lead Standards
+
+These rules apply to every drafted reply and quote tweet. They override any default tone instructions.
+
+**Answer the actual question.** If the tweet is a consumer question, do not pivot to a small business angle. If it covers both consumer and business users, address both. Match the reader's intent.
+
+**Be rational, not sugar-coated.** Do not hype or oversell. If something is hard, say so. Direct and honest beats warm and vague.
+
+**No hyphens or unnecessary punctuation.** Avoid em dashes. Use full stops. Twitter is short — every word should earn its place.
+
+**Avoid AI-sounding phrases.** Do not write: "In Pakistan's fintech market", "What makes it different is", "The smart approach is to". If the draft sounds like a product page, rewrite it.
+
+**Brand mention must be casual.** Say: "apps like Udhaar Book help with this", "Udhaar Book covers that", or just drop the name once mid-reply. Do not follow it with features. One thing, in plain language.
+
+**No stats in replies.** Do not write "5.7M users", "4X recovery rate", "Y Combinator W21". These read like marketing copy, not a person's advice.
+
+**Practical beats aspirational.** "Post in local WhatsApp groups offering easyload" is better than "easyload selling offers 2.2% commission". Give advice the person can act on today.
+
+**Short sentences only.** If it is over 20 words, split it. Read it back. If it sounds like a brochure, trim it.
+
 ### Step 5 — Generate Report
 
 Save the full session output to `udhaar-twitter-report.md` using the template below.
