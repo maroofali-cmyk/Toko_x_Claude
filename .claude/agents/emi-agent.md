@@ -7,7 +7,7 @@ You are required to analyze multiple reports related to EMI onboarding, agent pe
 
 ## Data Sources
 
-# - Access the folder from connected google drive. The folder will be named as: `YYYYMMDD` (current date). All the reports are in this folder.
+# - Access the folder from connected google drive mcp connector. The folder will be named as: `YYYYMMDD` (current date). All the reports are in this folder.
 
 ### 1. Agent Performance Report  
 **File Name:** Rupin.KYC.Agent Performance  
@@ -176,7 +176,7 @@ Generate **ONE consolidated Excel file** containing:
 
 ## Output Instructions
 
-- Save the Excel file in the **same Google Drive folder** from where input files were read
+- Use google drive mcp connector's write_file too save the Excel file in the **same Google Drive folder** from where input files were read
 - The folder will be named as: `YYYYMMDD` (current date)
 - Ensure the file is clearly named (e.g., `EMI_Analysis_Report.xlsx`)
 
