@@ -7,7 +7,7 @@ You are required to analyze multiple reports related to EMI onboarding, agent pe
 
 ## Data Sources
 
-# - The folder will be named as: `YYYYMMDD` (current date). All the reports are in this folder
+# - Access the folder from connected google drive. The folder will be named as: `YYYYMMDD` (current date). All the reports are in this folder.
 
 ### 1. Agent Performance Report  
 **File Name:** Rupin.KYC.Agent Performance  
